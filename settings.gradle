@@ -1,0 +1,2 @@
+rootProject.name = "WS Status Downloader"
+include ':app'
